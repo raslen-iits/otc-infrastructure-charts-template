@@ -63,3 +63,6 @@ charts:
     targetRevision: 1.3.0
     # values files needs to be inside this chart
     valueFile: "value-files/admin-dashboard/values.yaml"
+elastic-stack:
+  namespace: monitoring
+  targetRevision: "7.17.3-route-bugfix"
