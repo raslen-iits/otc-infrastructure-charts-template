@@ -16,3 +16,11 @@ defaultDashboard:
       href: "akhq/ui/"
       imgSrc: "https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png"
       imgAlt: "akhq (kafka headquarter)"
+    kibana:
+      href: "kibana"
+      imgSrc: "https://cdn.iconscout.com/icon/free/png-512/elastic-1-283281.png"
+      imgAlt: "Kibana"
+    elasticsearch:
+      href: "elasticseach"
+      imgSrc: "https://iconape.com/wp-content/png_logo_vector/elasticsearch-logo.png"
+      imgAlt: "Elasticsearch"
